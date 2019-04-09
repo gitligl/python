@@ -8,9 +8,6 @@ import time
 import os
 
 url = 'https://www.mzitu.com/'
-#url = 'https://www.mzitu.com/taiwan/'
-#url = 'https://www.mzitu.com/29221'
-#url = 'https://i.meizitu.net/2019/04/08b01.jpg'
 
 # 根据妹子图网址，获取需要爬取的分类url
 def Get_classify_url(url):
